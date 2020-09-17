@@ -3,8 +3,12 @@
 1，本地提交相关：
 
 	git add readme.txt
+
+	git add -u
 	
 	git commit -m "add distributed"
+
+	git checkout .
   
   	git status
 
